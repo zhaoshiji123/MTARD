@@ -5,7 +5,7 @@ by Shiji Zhao and Jie Yu and Zhenlong Sun and Bo Zhang and Xingxing Wei.
 
 Full code and instructions will be completed soon.
 
-Citation
+### Citation
 
 ```bash
 @inproceedings{Zhao2022Enhanced,
