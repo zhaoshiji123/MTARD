@@ -11,7 +11,7 @@ pytorch==1.6
 numpy
 ```
 
-### training command:
+### training resnet18 on cifar10 command:
 
 ```bash
 python mtard_resnet18_cifar10.py
