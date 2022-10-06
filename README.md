@@ -3,11 +3,7 @@ The Offical Code of ECCV2022: Enhanced Accuracy and Robustness via Multi-Teacher
 
 by Shiji Zhao, Jie Yu, Zhenlong Sun, Bo Zhang, Xingxing Wei.
 
-*The code mostly refers to  [RSLAD](https://github.com/zibojia/RSLAD). 
-
-**Teacher Implementation**
-
-* For the teacher model, the WideResNet-34-10 TRADES-pretrained is downloaded [here](https://drive.google.com/file/d/10sHvaXhTNZGz618QmD5gSOAjO3rMzV33/view) and WideResNet-70-16 is downloaded [here](https://github.com/deepmind/deepmind-research/tree/master/adversarial_robustness).
+The code mostly refers to  [RSLAD](https://github.com/zibojia/RSLAD). For the teacher model, the WideResNet-34-10 TRADES-pretrained and  WideResNet-70-16 model is also following the RSLAD.
 
 ### the running environment
 
