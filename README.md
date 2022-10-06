@@ -11,6 +11,7 @@ For the teacher model, the [WideResNet-34-10](https://drive.google.com/file/d/10
 ```bash
 python=3.8 
 pytorch=1.6
+cuda = 11.3
 numpy=1.19
 ```
 
