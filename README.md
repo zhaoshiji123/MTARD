@@ -3,7 +3,20 @@ The Code of ECCV2022: Enhanced Accuracy and Robustness via Multi-Teacher Adversa
 
 by Shiji Zhao, Jie Yu, Zhenlong Sun, Bo Zhang, Xingxing Wei.
 
-Full code and instructions will be completed soon.
+the running environment
+
+```bash
+conda create -n laneatt python=3.8 -y
+conda activate laneatt
+conda install pytorch==1.6 torchvision -c pytorch
+```
+
+### training command:
+
+```bash
+python mtard_resnet18_cifar10.py
+```
+
 
 ### Citation
 
