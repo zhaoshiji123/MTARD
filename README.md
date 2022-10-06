@@ -8,7 +8,7 @@ by Shiji Zhao, Jie Yu, Zhenlong Sun, Bo Zhang, Xingxing Wei.
 ```bash
 python=3.8 
 pytorch=1.6
-numpy
+numpy=1.19
 ```
 
 ### training resnet18 on cifar10 command:
