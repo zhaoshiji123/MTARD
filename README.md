@@ -6,9 +6,9 @@ by Shiji Zhao, Jie Yu, Zhenlong Sun, Bo Zhang, Xingxing Wei.
 the running environment
 
 ```bash
-conda create -n laneatt python=3.8 -y
-conda activate laneatt
-conda install pytorch==1.6 torchvision -c pytorch
+python=3.8 
+pytorch==1.6
+numpy
 ```
 
 ### training command:
