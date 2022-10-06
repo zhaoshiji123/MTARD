@@ -11,10 +11,16 @@ pytorch=1.6
 numpy=1.19
 ```
 
-### training resnet18 on cifar10 command:
+### training resnet18 on cifar10:
 
 ```bash
 python mtard_resnet18_cifar10.py
+```
+
+### training resnet18 on cifar100:
+
+```bash
+python mtard_resnet18_cifar100.py
 ```
 
 
