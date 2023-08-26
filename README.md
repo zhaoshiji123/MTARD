@@ -5,6 +5,8 @@ by Shiji Zhao, Jie Yu, Zhenlong Sun, Bo Zhang, Xingxing Wei.
 
 For the teacher model, the [WideResNet-34-10](https://drive.google.com/file/d/10sHvaXhTNZGz618QmD5gSOAjO3rMzV33/view) TRADES-pretrained and [WideResNet-70-16](https://github.com/deepmind/deepmind-research/tree/master/adversarial_robustness) model is also following the [RSLAD](https://github.com/zibojia/RSLAD).
 
+Our trained checkpoint is [here](https://drive.google.com/file/d/1QIdqSLAgTXiWmC_HAF-AylnYcRam1x4n/view?usp=drive_link).
+
 
 ### the running environment
 
