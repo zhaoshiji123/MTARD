@@ -1,4 +1,7 @@
-# ECCV2022: Enhanced Accuracy and Robustness via Multi-Teacher Adversarial Distillation (TPAMI version can be found in [Here](https://github.com/zhaoshiji123/MTARD-extension) )
+# The extension version (B-MTARD) of this paper is accepted by TPAMI, which can be found in [Here](https://github.com/zhaoshiji123/MTARD-extension) )
+
+
+# ECCV2022: Enhanced Accuracy and Robustness via Multi-Teacher Adversarial Distillation 
 The Offical Code of ECCV2022: [Enhanced Accuracy and Robustness via Multi-Teacher Adversarial Distillation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640577.pdf)
 
 by Shiji Zhao, Jie Yu, Zhenlong Sun, Bo Zhang, Xingxing Wei.
