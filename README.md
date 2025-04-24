@@ -7,6 +7,9 @@ For the teacher model, the [WideResNet-34-10](https://drive.google.com/file/d/10
 
 Our checkpoint is [here](https://drive.google.com/file/d/1QIdqSLAgTXiWmC_HAF-AylnYcRam1x4n/view?usp=drive_link).
 
+# Our extention work: B-MTARD is accepted by TPAMI: [https://github.com/zhaoshiji123/MTARD-extension] !
+
+
 ### the running environment
 
 ```bash
