@@ -37,8 +37,7 @@ python mtard_resnet18_cifar100.py
 ```bash
 @inproceedings{Zhao2022Enhanced,
 title={Enhanced Accuracy and Robustness via Multi-Teacher Adversarial Distillation},
-author={Shiji Zhao and Jie Yu and Zhenlong Sun and Bo Zhang and Xingxing Wei},
-booktitle={European Conference on Computer Vision},
-year={2022},
+author={Shiji Zhao and Ranjie Duan and Fengxiang Wang and Chi Chen and Caixin Kang and Shouwei Ruan and Jialing Tao and YueFeng Chen and Hui Xue and Xingxing Wei},
+year={2025},
 }
 ```
