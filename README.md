@@ -6,7 +6,7 @@ The Offical Code of ECCV2022: [Enhanced Accuracy and Robustness via Multi-Teache
 
 by Shiji Zhao, Jie Yu, Zhenlong Sun, Bo Zhang, Xingxing Wei.
 
-For the teacher model, the [WideResNet-34-10](https://drive.google.com/file/d/10sHvaXhTNZGz618QmD5gSOAjO3rMzV33/view) TRADES-pretrained and [WideResNet-70-16](https://github.com/deepmind/deepmind-research/tree/master/adversarial_robustness) model is also following the setting in [RSLAD](https://github.com/zibojia/RSLAD). The clean teacher model checkpoint is [here](https://drive.google.com/file/d/1i9PdN-Nt10Ckhaj3KqFrEE9SICSIEYCe/view?usp=drive_link).
+For the teacher model, the [WideResNet-34-10](https://drive.google.com/file/d/10sHvaXhTNZGz618QmD5gSOAjO3rMzV33/view) TRADES-pretrained and [WideResNet-70-16](https://github.com/deepmind/deepmind-research/tree/master/adversarial_robustness) model follows the setting in [RSLAD](https://github.com/zibojia/RSLAD). The clean teacher model checkpoint is [here](https://drive.google.com/file/d/1i9PdN-Nt10Ckhaj3KqFrEE9SICSIEYCe/view?usp=drive_link).
 
 Our checkpoint is [here](https://drive.google.com/file/d/1QIdqSLAgTXiWmC_HAF-AylnYcRam1x4n/view?usp=drive_link).
 
